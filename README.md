@@ -116,7 +116,7 @@ region     = "us-west1"
 ```
 # gke.tf
 variable "gke_username" {
-  default     = "guyfridge"
+  default     = "calebyang"
   description = "gke username"
 }
 ```
